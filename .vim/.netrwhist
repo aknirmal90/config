@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/niak/.envs/easyirctc'
+let g:netrw_dirhist_2='/Users/niak/projects/easyirctc/templates/ticketing'
+let g:netrw_dirhist_3='/Users/niak/GitHub/imojo_root/kharchapani'
+let g:netrw_dirhist_4='/Users/niak/.vim/bundle'
+let g:netrw_dirhist_5='/Users/niak/GitHub/imojo_root/recon/nodalpayout/management'
+let g:netrw_dirhist_6='/Users/niak/GitHub/imojo_root/kharchapani/tests'
+let g:netrw_dirhist_7='/Users/niak/GitHub/imojo_root/_circleci'
+let g:netrw_dirhist_8='/Users/niak/GitHub/imojo_root/recon/nodalpayout/management/commands'
+let g:netrw_dirhist_9='/Users/niak/projects/easyirctc/.git'
